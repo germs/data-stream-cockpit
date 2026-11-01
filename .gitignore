@@ -1,0 +1,17 @@
+# Blender scenes and backups (~250 MB each; GitHub rejects files over 100 MB)
+*.blend
+*.blend1
+*.blend2
+*.glb
+
+# Generated output
+renders/
+audio/
+
+# macOS leftovers
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
