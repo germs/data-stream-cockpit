@@ -1,5 +1,9 @@
 # Data Stream Cockpit
 
+[![Watch the video on YouTube](https://img.youtube.com/vi/aDzSQ23T0q4/maxresdefault.jpg)](https://www.youtube.com/watch?v=aDzSQ23T0q4)
+
+**▶ [Watch the video on YouTube](https://www.youtube.com/watch?v=aDzSQ23T0q4)**
+
 A 30-second first-person flight through a glowing data valley, built procedurally in Blender 5.x with Python:
 a cockpit with live HUD screens and holograms, a 70 m flying mechanical cobra (KESTREL-9) that the ship
 locks onto, and a warp-jump finale, plus a synthesized temp soundtrack and an automated edit.
